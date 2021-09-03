@@ -6,7 +6,12 @@ const add = (x, y) => {
   return x + y
 }
 
+const sub = (x, y) => {
+  return x - y;
+}
+
 start();
 const sumOfTwo = add(3, 4);
-console.log(sumOfTwo);
+const minus = sub(90, 38);
+console.log(sumOfTwo, minus);
 
