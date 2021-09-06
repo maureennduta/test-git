@@ -1,5 +1,5 @@
 const start = () => {
-  console.log('Started...');
+  console.lo('Started...');
 }
 
 const add = (x, y) => {
